@@ -72,19 +72,4 @@ function takeCommand(message) {
   }
 }
 
-// if (transcript.includes("hello")) {
-//   speak("Hello! How can I help you today?");
-// } else if (transcript.includes("time")) {
-//   const currentTime = new Date().toLocaleTimeString();
-//   speak("The current time is " + currentTime);
-// } else if (transcript.includes("date")) {
-//   const currentDate = new Date().toLocaleDateString();
-//   speak("Today's date is " + currentDate);
-// } else if (transcript.includes("your name")) {
-//   speak("My name is Voice Assistant.");
-// } else if (transcript.includes("open google")) {
-//   speak("Opening Google.");
-//   window.open("https://www.google.com", "_blank");
-// } else {
-//   speak("Sorry, I didn't understand that. Please try again.");
-// }
+
